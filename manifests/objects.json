@@ -1,0 +1,44 @@
+{
+ "century": "19century",
+ "collection": "objects",
+ "base_url": "https://19century.chenhua.net",
+ "count": 2,
+ "images": [
+  {
+   "id": "auto-5aef6dca",
+   "title": "Photostat copy of letter signed Jas. B",
+   "year": 1875,
+   "date_label": "1875",
+   "collection": "objects",
+   "content_type": "document",
+   "decade": "1870s",
+   "path": "objects/1870s/auto-5aef6dca-7a2e9c73.jpg",
+   "url": "https://19century.chenhua.net/objects/1870s/auto-5aef6dca-7a2e9c73.jpg",
+   "preview_url": "/next/images/19century/objects/1870s/auto-5aef6dca-7a2e9c73.jpg",
+   "detail_collection": "objects",
+   "detail_slug": "auto-5aef6dca",
+   "sha256": "66bb09e0108549837541eac30a2496a8e96adab1fd749fc3242d34d992623d8c",
+   "bytes": 211081,
+   "width": 960,
+   "height": 1203
+  },
+  {
+   "id": "auto-dc10d302",
+   "title": "Photostat copy of letter signed Jas. B",
+   "year": 1875,
+   "date_label": "1875",
+   "collection": "objects",
+   "content_type": "object",
+   "decade": "1870s",
+   "path": "objects/1870s/auto-dc10d302-3d6baa02.jpg",
+   "url": "https://19century.chenhua.net/objects/1870s/auto-dc10d302-3d6baa02.jpg",
+   "preview_url": "/next/images/19century/objects/1870s/auto-dc10d302-3d6baa02.jpg",
+   "detail_collection": "objects",
+   "detail_slug": "auto-dc10d302",
+   "sha256": "95eeb10d664ac9428a61a4330d610e71f1cfcc0e20fa7682340aad41ce13275b",
+   "bytes": 182057,
+   "width": 960,
+   "height": 1219
+  }
+ ]
+}

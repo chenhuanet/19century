@@ -9,7 +9,8 @@
 (function () {
   var p = location.pathname;
   if (p.indexOf('/paintings/') === 0) {
-    location.replace('https://pre19century.chenhua.net' + p + location.search);
+    // Temporary fallback while pre19century.chenhua.net verification is pending.
+    location.replace('https://midicn.github.io/pre19century' + p + location.search);
   } else {
     location.replace('https://19century.chenhua.net/');
   }

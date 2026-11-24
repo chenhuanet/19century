@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://19century.chenhua.net/sitemap.xml
